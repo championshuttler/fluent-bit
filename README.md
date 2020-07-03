@@ -159,12 +159,11 @@ If you are interested in contributing to Fluent bit with bug fixes, new features
 
 ## Community & Contact
 
-Feel free to join us on our Slack channel, Mailing List or IRC:
+Feel free to join us on our Slack channel, Mailing List or Twitter:
 
 - [Slack](http://slack.fluentd.org) (#fluent-bit channel)
 - [Mailing List](https://groups.google.com/forum/#!forum/fluent-bit)
 - [Twitter](http://twitter.com/fluentbit)
-- [IRC](irc.freenode.net) #fluent-bit
 
 ## License
 
